@@ -1,5 +1,6 @@
 # KayakUIAutomation
-UI Functional Tests for Search Landing Page
+- UI Functional Tests for Search Landing Page
+- Developed using SpecFlow, Selenium WebDriver, C#
 
 This project contains 2 automated tests:
 - Verify if user is able to search flights
